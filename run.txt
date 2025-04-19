@@ -1,0 +1,9 @@
+# Deploy 
+
+mvn clean package
+
+# Upload the .war file to your manager portal on tomcat.
+
+#Access
+
+http://your-instance-ip:8080/your-file-name
