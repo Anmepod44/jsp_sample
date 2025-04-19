@@ -48,11 +48,15 @@
   </style>
 </head>
 <body>
+
+  <!-- Make changes here -->
   <div class="container">
     <h1>Welcome to New Era Solutions</h1>
     <p>Your trusted partner in digital transformation and smart education solutions.</p>
     <p class="timestamp">Current Server Time: <%= new java.util.Date() %></p>
     <a href="https://www.newerasolutionsacademy.com/" class="button" target="_blank">Visit Our Academy</a>
   </div>
+
+  
 </body>
 </html>
